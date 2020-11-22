@@ -12,12 +12,13 @@
 首先模拟学生信息入口，验证学生信息
 System.out.println("——————学生入口———————");
 Scanner in = new Scanner(System.in);
-
+![image]java3/1.png at main · Chives-Meow/java3 (github.com)
 分别从学号信息，银行卡信息验证学生身份
 System.out.print("请输入学号：");
 		  number = in.nextInt();
 System.out.println("请输入银行卡号：");
 		  banknumber = in.nextInt();
+![image]java3/2.png at main · Chives-Meow/java3 (github.com)
 使用try语句，将两个研究生的信息编写
 catch语句防止报错
 定义学生和老师类接口
@@ -29,3 +30,5 @@ interface Manger_teacher {
 实发工资=应发工资-五金-缴税
 全月应纳税所得额=(应发工资-四金)-5000
 ……………………………………
+##实验结果##
+![image]java3/3.png at main · Chives-Meow/java3 (github.com)
