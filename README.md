@@ -12,7 +12,7 @@
 首先模拟学生信息入口，验证学生信息
 System.out.println("——————学生入口———————");
 Scanner in = new Scanner(System.in);
-![image]java3/1.png at main · Chives-Meow/java3 (github.com)
+![image]https://github.com/Chives-Meow/java3/blob/main/1.png
 分别从学号信息，银行卡信息验证学生身份
 System.out.print("请输入学号：");
 		  number = in.nextInt();
