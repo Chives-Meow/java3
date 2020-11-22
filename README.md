@@ -18,7 +18,7 @@ System.out.print("请输入学号：");
 		  number = in.nextInt();
 System.out.println("请输入银行卡号：");
 		  banknumber = in.nextInt();
-![image]java3/2.png at main · Chives-Meow/java3 (github.com)
+![image]https://github.com/Chives-Meow/java3/blob/main/2.png
 使用try语句，将两个研究生的信息编写
 catch语句防止报错
 定义学生和老师类接口
