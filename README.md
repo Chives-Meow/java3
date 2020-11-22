@@ -31,4 +31,4 @@ interface Manger_teacher {
 全月应纳税所得额=(应发工资-四金)-5000
 ……………………………………
 ##实验结果##
-![image]java3/3.png at main · Chives-Meow/java3 (github.com)
+![image]https://github.com/Chives-Meow/java3/blob/main/3.png
